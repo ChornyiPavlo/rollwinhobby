@@ -2,5 +2,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://rollwinhobby.com/sitemap.xml
-Host: rollwinhobby.com
+Sitemap: http://rollwinhobby.lenivo.online/sitemap.xml
+Host: rollwinhobby.lenivo.online
